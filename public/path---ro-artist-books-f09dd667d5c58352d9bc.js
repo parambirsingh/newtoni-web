@@ -1,2 +1,0 @@
-webpackJsonp([0x8d5d095e05f6],{682:function(t,e){t.exports={data:{allWine:{edges:[{node:{type:"Artist-Books",id:"3053",name:"Test",image:"http://localhost:3000/schneckenhof-dev/1551938058022.jpg",price:2,priority:0,content:0,availability:!0,description:"test"}}]}},pathContext:{lang:"ro"}}}});
-//# sourceMappingURL=path---ro-artist-books-f09dd667d5c58352d9bc.js.map
